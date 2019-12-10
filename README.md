@@ -1,4 +1,4 @@
-# Assigment_Design SCSS
+# Assignment_Design SCSS
 
 https://moisiflorin.github.io/Assigment_Design/.
 
